@@ -1,0 +1,20 @@
+# Dependency folders
+node_modules/
+.env
+
+# Hardhat build output
+artifacts/
+cache/
+hardhat.cache
+
+# Log files
+*.log
+npm-debug.log*
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+Blockchain Terminal.txt
